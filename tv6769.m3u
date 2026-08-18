@@ -94,15 +94,6 @@ https://megaflix.mgfiles.lat/a3138cb07e5978fb23f586ca1d7a1841/file.m3u8
 https://megaflix.mgfiles.lat/4d245b6c61663bf8832a968fd748c2ef/file.m3u8
 
 
-############################################################################ Canais | REALITY
-
-
-#EXTINF:-1 tvg-logo="https://BUTceP.png" group-title="Canais | REALITY",A Fazenda 1
-
-
-#EXTINF:-1 tvg-logo="https://iUTceP.png" group-title="Canais | REALITY",A Fazenda 2
-
-
 ############################################################################ Canais | RECORD TV
 
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV BA HD
@@ -187,7 +178,7 @@ https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="Canais | RedeTV",RedeTV TV MA
 https://stmv6.voxtvhd.com.br/imperialtv/imperialtv/playlist.m3u8
 
-############################################################################ CANAIS SporTV 
+############################################################################ Canais | SporTV 
 
 #EXTINF:- 1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD
 https://cr7v.short.gy/manoiTVOP1/sptv1/75991634025/index.m3u8
@@ -204,7 +195,7 @@ http://s2.micineovs.com/SPTV2/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 HD
 https://cr7v.short.gy/FuncionaSoquandoTemF1/ManoTVfree.m3u8
 
-############################################################################ CANAIS ESPN
+############################################################################ Canais | ESPN
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD
 https://cr7v.short.gy/live25/spn/Index.m3u8
@@ -239,7 +230,7 @@ http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" grupo-title="Canais | ESPN",ESPN 6 HD 
 https://megaflix.mgfiles.lat/9a37513b3ad67a23f63482a05b7c4c14/file.m3u8
 
-############################################################################ CANAIS LUTAS
+############################################################################ Canais | LUTAS
 
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate HD
 http://46.151.196.223:14468/
@@ -254,7 +245,7 @@ https://cr7v.short.gy/manofree/UFC/tracks-v2a1/mono.m3u8
 https://cr7v.short.gy/manofree/UFC2/ZAP075991634025/index.m3u8
 
 
-############################################################################ CANAIS PREMIERE
+############################################################################ Canais | PREMIERE
 
 
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD
@@ -288,7 +279,7 @@ https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8
 #EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="ao vivo | FUTEBOL",Prime Vídeo HD²
 http://202555.halfa.win:80/streamyou/202555/34
 
-############################################################################ ao vivo | BRASILEIRÃO
+############################################################################ Ao Vivo | BRASILEIRÃO
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Brasileirão 1
 https://cr7v.short.gy/Canal1/index.m3u8
@@ -311,7 +302,7 @@ https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Brasileirão 7
 https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8
 
-############################################################################ AO VIVO | LIBERTADORES 
+############################################################################ Ao Vivo | LIBERTADORES 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Liberta 1
 https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
@@ -328,7 +319,7 @@ https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Liberta 5
 https://cr7v.short.gy/live/JOGOO8/Index.m3u8
 
-############################################################################ ao vivo | BRASILEIRÃO
+############################################################################ Ao Vivo | BRASILEIRÃO
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7PyqxOj.png" group-title="ao vivo | COPA DO BRASIL",Copa do Brasil 
 https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
@@ -342,7 +333,7 @@ https://cr7v.short.gy/mano6/testechamaWhats75991634025.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7PyqxOj.png" group-title="ao vivo | COPA DO BRASIL",Copa do Brasil 4
 https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
 
-############################################################################ CANAIS | MAX
+############################################################################ Canais | MAX
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV ESPORTES",Max 1
 https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
@@ -376,39 +367,6 @@ https://cng-cngt-samsungtvplus-br.otteravision.com/cng/cngt/cngt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRnE50u.png" group-title="Canais | ESPORTES",Auto TV
 https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8
 
-
-############################################################################  REPRISE
-
-
-#EXTINF:-1 tvg-id="FUEL TV" tvg-name="FUEL TV" tvg-logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png" group-title="Canais | ESPORTES",FUEL TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uoPNiM1.png" group-title="Canais | ESPORTES",Woohoo
-http://gerenciar.vivatele.com/viva_padrao/viva2384/73 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppym5u9.png" group-title="Canais | ESPORTES",OFF
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TQFWEIS.png" group-title="Canais | ESPORTES",Canal do Inter
-https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/tbdL42j.png" group-title="Canais | ESPORTES",PONTV
-https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7HTxrEq.png" group-title="Canais | ESPORTES",Trace Sport Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bEA7KyI.png" group-title="Canais | ESPORTES",Acelerados
-https://cc-zvni27dp2ukyu.akamaized.net/ogc/acel/acel.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4eaKYJu.png" group-title="Canais | ESPORTES",Racer Brasil
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/7N_Sports/MAVTV_Brasil_BR/MAVTV_Brasil.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6fU9ulW.png" group-title="Canais | ESPORTES",Esportes Brasília 
-https://a.cdni.live/radioesporte/radioesporte/chunklist_w1002148111.m3u8?ManoTV
-
-############################################################################ AO VIVO AGORA 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KlMpCWS.png" group-title="ao vivo | FUTEBOL",Canal GOAT 1 HD
 
 
@@ -441,6 +399,37 @@ https://cr7v.short.gy/live/JOGOO8/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 9
 https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
+
+
+############################################################################  REPRISE
+
+
+#EXTINF:-1 tvg-id="FUEL TV" tvg-name="FUEL TV" tvg-logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png" group-title="Canais | ESPORTES",FUEL TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uoPNiM1.png" group-title="Canais | ESPORTES",Woohoo
+http://gerenciar.vivatele.com/viva_padrao/viva2384/73 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppym5u9.png" group-title="Canais | ESPORTES",OFF
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TQFWEIS.png" group-title="Canais | ESPORTES",Canal do Inter
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/tbdL42j.png" group-title="Canais | ESPORTES",PONTV
+https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7HTxrEq.png" group-title="Canais | ESPORTES",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bEA7KyI.png" group-title="Canais | ESPORTES",Acelerados
+https://cc-zvni27dp2ukyu.akamaized.net/ogc/acel/acel.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4eaKYJu.png" group-title="Canais | ESPORTES",Racer Brasil
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/7N_Sports/MAVTV_Brasil_BR/MAVTV_Brasil.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6fU9ulW.png" group-title="Canais | ESPORTES",Esportes Brasília 
+https://a.cdni.live/radioesporte/radioesporte/chunklist_w1002148111.m3u8?ManoTV
 
 ############################################################################ Canais | Noticias
 
@@ -678,6 +667,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mqEHDE1.png" group-title="Canais | NOVELAS",Sony Novelas | LG
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9bIhIR.png" group-title="Pluto TV | Novelas",PLUTO TV NOVELAS
+https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
 
 
 ############################################################################ Canais | FILMES E SERIES
@@ -1018,7 +1010,7 @@ https://cdn-5.nxplay.com.br/HALLODOC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 https://cdn-5.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
 
-############################################################################ CANAIS RUNTIME & PLUTO FILMES
+############################################################################ Canais | RUNTIME
 
 #EXTINF:-1 tvg-logo="https://imgur.com/3Wpaz9E.png" group-title="Runtime TV | FILMES",Runtime Ação HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
@@ -1214,13 +1206,6 @@ https://jmp2.uk/plu-69162648d03565d6c8c8df97.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qUTZWoW.png" group-title="Pluto TV | RETRÔ",Popeye
 https://jmp2.uk/plu-677d93f37bffa600080795e7.m3u8
 
-
-############################################################################ Canais | NOVELAS
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O9bIhIR.png" group-title="Pluto TV | Novelas",PLUTO TV NOVELAS
-https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
-
-
 ############################################################################ PlutoTV Canais | REALITY
 
 #EXTINF:-1 tvg-id="MasterChef" tvg-logo="https://i.imgur.com/qKwrAUT.png" group-title="Pluto TV | REALITY",MasterChef
@@ -1279,7 +1264,7 @@ https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
 #EXTINF:-1 tvg-id="MTV Biggest Pop" tvg-name="MTV Biggest Pop" tvg-logo="https://i.imgur.com/hjSEGG3.png" group-title="Pluto TV | MTV",MTV Biggest Pop
 https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
 
-############################################################################ PlutoTV Canais | MÚSICAS 
+############################################################################ PlutoTV | MÚSICAS 
 
 #EXTINF:-1 tvg-id="TikTok Radio Brasil" tvg-name="TikTok Radio Brasil" tvg-logo="https://i.imgur.com/xJmYT8V.png" group-title="Pluto TV | MÚSICAS",TikTok Radio Brasil
 https://jmp2.uk/plu-63dac32bda711800088a2ba3.m3u8
@@ -1405,7 +1390,7 @@ https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UmQ5z81.png" group-title="Pluto TV | ESPORTES",World Poker lour
 https://jmp2.uk/plu-63eba66da8b2270008436b10.m3u8
 
-############################################################################ PLUTO TV | SOUTH PARK 
+############################################################################ Pluto TV | SOUTH PARK 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Pluto TV | SOUTH PARK",South Park: Coleção Cartman
 https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8
@@ -1422,7 +1407,7 @@ https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Pluto TV | SOUTH PARK",Comedy Central South Park
 https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
 
-############################################################################ PLUTO TV | COMÉDIA 
+############################################################################ Pluto TV | COMÉDIA 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="Pluto TV | COMÉDIA",Comedy Central Pluto TV
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
@@ -1439,7 +1424,7 @@ https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="Canais | COMÉDIA",The Pet Collective
 https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
 
-############################################################################ PLUTO TV | ESTILO DE VIDA 
+############################################################################ Pluto TV | ESTILO DE VIDA 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s4pf0PF.png" group-title="Pluto TV | ESTILO DE VIDA ",Salon line
 https://jmp2.uk/plu-66a7d0e0cd0d310008448610.m3u8
